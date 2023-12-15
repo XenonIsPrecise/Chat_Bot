@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "How are you",
+      "answer": "I am good, How are you."
+    },
+    {
+      "question": "How are you doing",
+      "answer": "I am good, How are you."
+    },
+    {
+      "question": "How are you today",
+      "answer": "I am good, How are you."
+    },
+    {
+      "question": "How are you feeling",
+      "answer": "I am good, How are you."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello. I am good, How are you."
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi, How are you."
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatBot. Here tohelp you"
+    },
+    {
+      "question": "Who am I",
+      "answer": "You are a person using me to get he answers"
+    },
+    {
+      "question": "What is the highest peak of the world?",
+      "answer": "It is Mount Everest."
+    },
+    {
+      "question": "I am fine thank you",
+      "answer": "Glad to hear that."
+    }
+  ]
+}
